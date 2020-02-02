@@ -1,0 +1,4 @@
+#Sat Feb 01 23:58:06 BRT 2020
+base.0=/home/jean-tesis/ReactNative/projeto01/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
